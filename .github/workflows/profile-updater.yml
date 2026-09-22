@@ -1,0 +1,47 @@
+name: Autonomous Profile & Visibility Updater
+
+on:
+  schedule:
+    # Executa todos os dias às 12:00 UTC (09:00 BRT) de forma 100% autônoma
+    - cron: '0 12 * * *'
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - 'README.md'
+
+permissions:
+  contents: write
+
+jobs:
+  update-profile:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+
+      - name: Run Visibility & Dynamic Profile Engine
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python scripts/update_profile.py
+
+      - name: Commit and Push Changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "Autonomous Visibility Agent"
+          git add README.md
+          if git diff --staged --quiet; then
+            echo "Nenhuma alteração detectada no perfil hoje."
+          else
+            git commit -m "🤖 chore(agent): sincronização autônoma de métricas e visibilidade [skip ci]"
+            git push
+          fi
