@@ -174,7 +174,7 @@ Desenvolvedor de software orientado à construção de sistemas robustos, ferram
     </tr>
     <tr>
       <td>
-        <p><b>⏱️ Última Atualização do Hub:</b> <code>23/09/2026 às 16:07 UTC</code></p>
+        <p><b>⏱️ Última Atualização do Hub:</b> <code>24/09/2026 às 16:31 UTC</code></p>
         <p><b>📊 Métricas Rastreadas em Tempo Real:</b></p>
         <ul>
           <li><b>Repositórios Públicos Monitorados:</b> 4</li>
@@ -182,9 +182,9 @@ Desenvolvedor de software orientado à construção de sistemas robustos, ferram
           <li><b>Ambientes em Produção:</b> Web, Desktop (Windows x64), Nuvem</li>
         </ul>
         <hr>
-        <p><b>💡 Pílula Diária de Engenharia & Arquitetura (Arquitetura & Sistemas Concorrentes):</b></p>
+        <p><b>💡 Pílula Diária de Engenharia & Arquitetura (Segurança & Criptografia em Trânsito):</b></p>
         <blockquote>
-          "Manter limites claros entre I/O assíncrono e computação intensiva previne saturação do event loop. Em terminais e agentes, buffers com backpressure evitam overflow de memória."
+          "Chaves privadas e credenciais nunca devem transitar pelo estado central da aplicação. Assinaturas GPG e verificação de hashes SHA-256 garantem integridade na distribuição de binários."
         </blockquote>
       </td>
     </tr>
