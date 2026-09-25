@@ -174,7 +174,7 @@ Desenvolvedor de software orientado à construção de sistemas robustos, ferram
     </tr>
     <tr>
       <td>
-        <p><b>⏱️ Última Atualização do Hub:</b> <code>24/09/2026 às 16:31 UTC</code></p>
+        <p><b>⏱️ Última Atualização do Hub:</b> <code>25/09/2026 às 16:33 UTC</code></p>
         <p><b>📊 Métricas Rastreadas em Tempo Real:</b></p>
         <ul>
           <li><b>Repositórios Públicos Monitorados:</b> 4</li>
@@ -182,9 +182,9 @@ Desenvolvedor de software orientado à construção de sistemas robustos, ferram
           <li><b>Ambientes em Produção:</b> Web, Desktop (Windows x64), Nuvem</li>
         </ul>
         <hr>
-        <p><b>💡 Pílula Diária de Engenharia & Arquitetura (Segurança & Criptografia em Trânsito):</b></p>
+        <p><b>💡 Pílula Diária de Engenharia & Arquitetura (Clean Code & Idempotência de APIs):</b></p>
         <blockquote>
-          "Chaves privadas e credenciais nunca devem transitar pelo estado central da aplicação. Assinaturas GPG e verificação de hashes SHA-256 garantem integridade na distribuição de binários."
+          "Endpoints críticos devem suportar chaves de idempotência para suportar reconexões transparentes e retries exponenciais sem duplicação de dados."
         </blockquote>
       </td>
     </tr>
