@@ -174,7 +174,7 @@ Desenvolvedor de software orientado à construção de sistemas robustos, ferram
     </tr>
     <tr>
       <td>
-        <p><b>⏱️ Última Atualização do Hub:</b> <code>25/09/2026 às 16:33 UTC</code></p>
+        <p><b>⏱️ Última Atualização do Hub:</b> <code>26/09/2026 às 15:48 UTC</code></p>
         <p><b>📊 Métricas Rastreadas em Tempo Real:</b></p>
         <ul>
           <li><b>Repositórios Públicos Monitorados:</b> 4</li>
@@ -182,9 +182,9 @@ Desenvolvedor de software orientado à construção de sistemas robustos, ferram
           <li><b>Ambientes em Produção:</b> Web, Desktop (Windows x64), Nuvem</li>
         </ul>
         <hr>
-        <p><b>💡 Pílula Diária de Engenharia & Arquitetura (Clean Code & Idempotência de APIs):</b></p>
+        <p><b>💡 Pílula Diária de Engenharia & Arquitetura (Reserva Temporária de Recursos):</b></p>
         <blockquote>
-          "Endpoints críticos devem suportar chaves de idempotência para suportar reconexões transparentes e retries exponenciais sem duplicação de dados."
+          "Em sistemas de reservas e pedidos, a expiração sob demanda (lazy evaluation) reduz overhead de daemons contínuos, garantindo liberação imediata ao consultar o item."
         </blockquote>
       </td>
     </tr>
