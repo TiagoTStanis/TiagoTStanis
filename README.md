@@ -174,7 +174,7 @@ Desenvolvedor de software orientado à construção de sistemas robustos, ferram
     </tr>
     <tr>
       <td>
-        <p><b>⏱️ Última Atualização do Hub:</b> <code>28/09/2026 às 19:15 UTC</code></p>
+        <p><b>⏱️ Última Atualização do Hub:</b> <code>29/09/2026 às 17:39 UTC</code></p>
         <p><b>📊 Métricas Rastreadas em Tempo Real:</b></p>
         <ul>
           <li><b>Repositórios Públicos Monitorados:</b> 4</li>
@@ -182,9 +182,9 @@ Desenvolvedor de software orientado à construção de sistemas robustos, ferram
           <li><b>Ambientes em Produção:</b> Web, Desktop (Windows x64), Nuvem</li>
         </ul>
         <hr>
-        <p><b>💡 Pílula Diária de Engenharia & Arquitetura (Agentes Autônomos & Observabilidade):</b></p>
+        <p><b>💡 Pílula Diária de Engenharia & Arquitetura (Otimização de Bancos & Índices):</b></p>
         <blockquote>
-          "Agentes de produção necessitam de loops orientados a feedback contínuo, limites de retries bem definidos e trilhas de auditoria para garantir reprodutibilidade sem supervisão manual."
+          "Consultas textuais insensíveis a acentos e ordenações compostas demandam índices parciais e trigramas no PostgreSQL para evitar full table scans em catálogos volumosos."
         </blockquote>
       </td>
     </tr>
