@@ -174,7 +174,7 @@ Desenvolvedor de software orientado à construção de sistemas robustos, ferram
     </tr>
     <tr>
       <td>
-        <p><b>⏱️ Última Atualização do Hub:</b> <code>03/10/2026 às 15:44 UTC</code></p>
+        <p><b>⏱️ Última Atualização do Hub:</b> <code>04/10/2026 às 16:26 UTC</code></p>
         <p><b>📊 Métricas Rastreadas em Tempo Real:</b></p>
         <ul>
           <li><b>Repositórios Públicos Monitorados:</b> 4</li>
@@ -182,9 +182,9 @@ Desenvolvedor de software orientado à construção de sistemas robustos, ferram
           <li><b>Ambientes em Produção:</b> Web, Desktop (Windows x64), Nuvem</li>
         </ul>
         <hr>
-        <p><b>💡 Pílula Diária de Engenharia & Arquitetura (Reserva Temporária de Recursos):</b></p>
+        <p><b>💡 Pílula Diária de Engenharia & Arquitetura (Sistemas Multi-Protocolo (SSH, RDP, VNC)):</b></p>
         <blockquote>
-          "Em sistemas de reservas e pedidos, a expiração sob demanda (lazy evaluation) reduz overhead de daemons contínuos, garantindo liberação imediata ao consultar o item."
+          "Túneis dinâmicos SOCKS5 aliados a encaminhamento de agentes SSH fornecem pontes seguras para redes corporativas sem expor credenciais na camada intermediária."
         </blockquote>
       </td>
     </tr>
