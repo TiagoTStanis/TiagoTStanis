@@ -174,7 +174,7 @@ Desenvolvedor de software orientado à construção de sistemas robustos, ferram
     </tr>
     <tr>
       <td>
-        <p><b>⏱️ Última Atualização do Hub:</b> <code>04/10/2026 às 16:26 UTC</code></p>
+        <p><b>⏱️ Última Atualização do Hub:</b> <code>06/10/2026 às 17:56 UTC</code></p>
         <p><b>📊 Métricas Rastreadas em Tempo Real:</b></p>
         <ul>
           <li><b>Repositórios Públicos Monitorados:</b> 4</li>
@@ -182,9 +182,9 @@ Desenvolvedor de software orientado à construção de sistemas robustos, ferram
           <li><b>Ambientes em Produção:</b> Web, Desktop (Windows x64), Nuvem</li>
         </ul>
         <hr>
-        <p><b>💡 Pílula Diária de Engenharia & Arquitetura (Sistemas Multi-Protocolo (SSH, RDP, VNC)):</b></p>
+        <p><b>💡 Pílula Diária de Engenharia & Arquitetura (Otimização de Bancos & Índices):</b></p>
         <blockquote>
-          "Túneis dinâmicos SOCKS5 aliados a encaminhamento de agentes SSH fornecem pontes seguras para redes corporativas sem expor credenciais na camada intermediária."
+          "Consultas textuais insensíveis a acentos e ordenações compostas demandam índices parciais e trigramas no PostgreSQL para evitar full table scans em catálogos volumosos."
         </blockquote>
       </td>
     </tr>
